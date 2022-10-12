@@ -20,3 +20,5 @@ https://www.radix-ui.com/ -> npm install @radix-ui/react-slot -> biblioteca de c
 npm install phosphor-react -> biblioteca de icones
 npm install @radix-ui/react-checkbox
 npm i @storybook/storybook-deployer --save-dev
+addons a11y -> npm install @storybook/addon-a11y
+https://transform.tools/ -> transforma imagem em componente react
